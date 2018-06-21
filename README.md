@@ -56,7 +56,7 @@ Signed,
 -  Danilo Guanabara [@danguafer](https://github.com/danguafer)
 -  Elijah Cruz [@elijahcruz12](https://github.com/elijahcruz12)
 -  Michael Bishop [@miklb](https://github.com/miklb)
-
+-  Naing [@o92](https://github.com/o92)
 > **Notice:** Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.
 
 **[To add your name or recommend alterations to this text, please submit a PR!](https://github.com/selfagency/microsoft-drop-ice/edit/master/README.md)**
